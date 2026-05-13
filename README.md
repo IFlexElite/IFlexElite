@@ -4,9 +4,6 @@
 
 ### Developer building web apps, APIs, bots, and automation tools.
 
-[![Profile Views](https://komarev.com/ghpvc/?username=IFlexElite&style=for-the-badge&color=0e75b6)](https://github.com/IFlexElite)
-[![GitHub Followers](https://img.shields.io/github/followers/IFlexElite?style=for-the-badge&logo=github&label=Followers)](https://github.com/IFlexElite?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/IFlexElite?style=for-the-badge&logo=github&label=Stars)](https://github.com/IFlexElite?tab=repositories)
 
 </div>
 
