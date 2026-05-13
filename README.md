@@ -24,14 +24,6 @@
 </div>
 
 
-</div>
-
-## Featured Work
-
-Check out my repositories for web apps, bots, APIs, and automation projects:
-
-[![Repositories](https://img.shields.io/badge/View%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IFlexElite?tab=repositories)
-
 ## Connect
 
 <div align="center">
