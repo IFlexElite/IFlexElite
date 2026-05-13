@@ -48,9 +48,12 @@ I like building practical software that is fast, clean, and useful. My work focu
 
 <div align="center">
 
-![IFlexElite GitHub Stats](https://github-readme-stats.vercel.app/api?username=IFlexElite&show_icons=true&theme=tokyonight&hide_border=true)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IFlexElite&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IFlexElite&layout=compact&theme=tokyonight&hide_border=true)
+![IFlexElite GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IFlexElite&theme=tokyonight)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IFlexElite&theme=tokyonight)
+
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IFlexElite&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=IFlexElite&theme=tokyonight&hide_border=true)
 
@@ -69,4 +72,3 @@ Check out my repositories for web apps, bots, APIs, and automation projects:
 [![GitHub](https://img.shields.io/badge/GitHub-IFlexElite-181717?style=for-the-badge&logo=github)](https://github.com/IFlexElite)
 
 </div>
-
