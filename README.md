@@ -35,27 +35,13 @@ I like building practical software that is fast, clean, and useful. My work focu
 
 </div>
 
-## What I Build
-
-| Area | Focus |
-| --- | --- |
-| Web Apps | Landing pages, dashboards, tools, and interactive experiences |
-| APIs | Lightweight services, integrations, and backend utilities |
-| Bots | Telegram bots, automation bots, and command-based tools |
-| Automation | Scripts and workflows that reduce repeated manual work |
-
 ## GitHub Stats
 
 <div align="center">
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IFlexElite&theme=tokyonight)
 
-![IFlexElite GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IFlexElite&theme=tokyonight)
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IFlexElite&theme=tokyonight)
 
-![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IFlexElite&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=IFlexElite&theme=tokyonight&hide_border=true)
 
 </div>
 
