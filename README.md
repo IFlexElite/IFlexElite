@@ -10,15 +10,6 @@
 
 </div>
 
-## About Me
-
-I like building practical software that is fast, clean, and useful. My work focuses on web experiences, backend APIs, Telegram bots, automation flows, and developer tools that make everyday tasks easier.
-
-- Building full-stack projects with modern JavaScript.
-- Creating APIs, bots, and automation systems.
-- Learning better architecture, deployment, and UI patterns.
-- Turning ideas into usable products.
-
 ## Tech Stack
 
 <div align="center">
